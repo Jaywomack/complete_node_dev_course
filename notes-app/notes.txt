@@ -1,2 +1,0 @@
-This file was created by nodeJS
-This is the data that is to be appended
